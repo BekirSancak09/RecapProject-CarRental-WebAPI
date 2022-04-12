@@ -42,6 +42,4 @@
         - Validation Error Details
 
 
-##Database
-
 <img src="https://github.com/kubraterzi/ReCapProject-CarRentalCompany/blob/master/ImagesForGithub/Databases.PNG" />
